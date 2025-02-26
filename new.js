@@ -3,7 +3,7 @@ function sumOfEvenNumbers(arr){
 
     
     let sum = 0;
-   for(x = 0; x < arr.length; x++){
+   for(let x = 0; x < arr.length; x++){
        
       
    if ( arr[x] % 2 === 0){
